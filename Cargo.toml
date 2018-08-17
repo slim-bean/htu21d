@@ -1,0 +1,10 @@
+[package]
+name = "htu21d"
+version = "0.1.0"
+authors = ["Edward Welch <ed@oqqer.com>"]
+
+[dependencies]
+embedded-hal = "0.2.1"
+
+[dev-dependencies]
+linux-embedded-hal = "0.2"
